@@ -1,0 +1,5 @@
+body{
+  height: 100vh;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(201, 203, 224, 0.59) 0%, rgba(0, 163, 255, 0.59) 100%);
+
+}
