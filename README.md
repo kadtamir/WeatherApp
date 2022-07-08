@@ -2,8 +2,6 @@
 
 ![showcase image](/public/weather-app-showcase.png)
 
-### [Live Demo](https://kadtamir-weather.netlify.app/)
-
 ## Description
 
 This weather app is my very first full scale project. Built with React, React-Router and Material-ui using the Context API.
